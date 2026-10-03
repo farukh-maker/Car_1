@@ -1,0 +1,6 @@
+{
+  "name": "APEX Pantheon - F1 & Hypercar Telemetry Hub",
+  "description": "Formula 1 telemetry analysis, Guinness world record hypercars, 3D aerodynamics laboratory, and precision engineering benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
